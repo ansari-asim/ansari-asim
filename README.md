@@ -14,7 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=root%40ansari-asim%3A~%24+whoami;%3E+MLOps+Developer+%7C+AI+Solutions+Engineer;%3E+Computer+Vision+Specialist;%3E+Building+Intelligent+Systems+at+Scale...;%3E+sudo+apt+install+future-of-ai)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ansari-asim&color=4ade80&style=for-the-badge&label=VISITORS)
 [![GitHub followers](https://img.shields.io/github/followers/ansari-asim?logo=GitHub&style=for-the-badge&color=4ade80&labelColor=1a1a1a)](https://github.com/ansari-asim)
 [![GitHub Stars](https://img.shields.io/github/stars/ansari-asim?logo=github&style=for-the-badge&color=4ade80&labelColor=1a1a1a)](https://github.com/ansari-asim)
 
@@ -145,37 +144,34 @@ Load avg: 9.9  9.8  9.7 | Tasks: 6 total | Uptime: 24/7
 
 ---
 
-## `[root@ansari-asim ~]$ tail -f /var/log/live-metrics.log`
+## `[root@ansari-asim ~]$ ./render --mode=visual`
 
 <div align="center">
 
-<!-- WAKATIME CODING STATS — live weekly coding time -->
-[![wakatime](https://wakatime.com/badge/user/ansari-asim.svg?style=for-the-badge&color=1a1a1a&label=WEEKLY+CODING+TIME)](https://wakatime.com/@ansari-asim)
-
-<!-- GITHUB SKYLINE — 3D contribution city -->
-[![3D Contributions](https://img.shields.io/badge/3D%20Contribution%20Skyline-1a1a1a?style=for-the-badge&logo=github&logoColor=4ade80)](https://skyline.github.com/ansari-asim/2024)
-
-<!-- SPOTIFY NOW PLAYING — live music card -->
-[![Spotify](https://novatorem-ansari-asim.vercel.app/api/spotify)](https://open.spotify.com)
-
-<!-- RANDOM DEV QUOTE — refreshes on every page load -->
+<!-- RANDOM HACKER DEV QUOTE — new quote on every visit -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- STREAK STATS — live commit fire streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansari-asim&theme=dark&background=0d1117&stroke=4ade80&ring=4ade80&fire=22c55e&currStreakLabel=4ade80&sideLabels=4ade80&dates=ffffff&border=4ade8055" width="700"/>
+<!-- CAPSULE RENDER CYBERPUNK WAVE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0,20,0,4ade80&height=60&section=header" width="100%"/>
 
+<!-- CUSTOM SKILL ICONS — beautiful icon grid, no stats -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,docker,fastapi,aws,gcp,azure,linux,git,vscode&theme=dark&perline=6" />
+  </a>
+</p>
 
+<!-- CAPSULE RENDER CYBERPUNK WAVE DIVIDER BOTTOM -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0,20,0,4ade80&height=60&section=footer&reversal=true" width="100%"/>
+
+<!-- VISITOR BADGE — only thing that's "live", just a counter -->
+![Visitors](https://komarev.com/ghpvc/?username=ansari-asim&color=4ade80&style=for-the-badge&label=PROFILE+VISITS)
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION — contribution grid snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake.svg"/>
-</picture>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,0,4ade80&height=80&section=footer&text=root@ansari-asim:~$%20logout&fontColor=4ade80&fontSize=16&fontAlign=50&fontAlignY=65" width="100%"/>
 
@@ -195,7 +191,5 @@ Connection closed. ●
 ║  1. Create PUBLIC repo named exactly: ansari-asim            ║
 ║  2. Update: Email, LinkedIn, Portfolio URLs                  ║
 ║  3. Snake: add .github/workflows/snake.yml                   ║
-║  4. WakaTime: sign up at wakatime.com & add IDE plugin       ║
-║  5. Spotify card: deploy novatorem to Vercel (optional)      ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
