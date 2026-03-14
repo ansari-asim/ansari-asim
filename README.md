@@ -116,7 +116,7 @@ PID   PROCESS                          CPU%   MEM%   STATUS
 001   computer_vision_pipeline.py      ████░   87%   RUNNING
 002   mlops_ci_cd_workflow.sh          ███░░   72%   RUNNING
 003   model_training_loop.py           █████   94%   RUNNING
-004   edge_ai_deployment.py            ██░░░   45%   RUNNING
+004   edge_ai_deployment.py            ██░░░   50%   RUNNING
 005   open_source_contributions.sh     ░░░░░    8%   QUEUED
 006   multimodal_research.py           ░░░░░    2%   QUEUED
 ───────────────────────────────────────────────────────────
@@ -137,8 +137,8 @@ Load avg: 9.9  9.8  9.7 | Tasks: 6 total | Uptime: 24/7
 
 [![LinkedIn](https://img.shields.io/badge/Asim%20Ansari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansari-asim)
 [![GitHub](https://img.shields.io/badge/ansari--asim-1a1a1a?style=for-the-badge&logo=github&logoColor=4ade80)](https://github.com/ansari-asim)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=4ade80)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=4ade80)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=4ade80)](mailto:asimansari400097@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=4ade80)](https://ansari-asim.github.io/asim-portfolio/)
 
 </div>
 
