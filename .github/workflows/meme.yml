@@ -12,10 +12,10 @@ jobs:
   meme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Fetch random programming meme
+      - uses: actions/checkout@v5
+      - name: Fetch random AI meme
         run: |
-          curl -s "https://meme-api.com/gimme/ProgrammerHumor" \
+          curl -s "https://meme-api.com/gimme/ProgrammerHumor+MachineLearning+artificial+datascience" \
           | python3 -c "import sys,json; print(json.load(sys.stdin)['url'])" \
           | xargs curl -L -o meme.png
       - name: Commit meme
@@ -23,6 +23,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add meme.png
-          if git commit -m "🐛 daily meme update"; then
+          if git commit -m "🤖 daily AI meme update"; then
             git push
           fi
