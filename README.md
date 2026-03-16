@@ -111,12 +111,6 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 
 <br/>
 
-<!-- RANDOM MEME — changes on every page visit via meme API -->
-### 🐛 Random Dev Meme *(refreshes every visit)*
-![Dev Meme](https://memer-new.vercel.app/)
-
-<br/>
-
 </div>
 
 ---
@@ -135,30 +129,46 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 
 **When the model finally converges** 🎉
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="success"/>
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="260" alt="yes finally"/>
 
 </td>
 <td align="center" width="50%">
 
 **When the GPU runs out of memory** 💀
 
-<img src="https://media.giphy.com/media/26uf2YTgF5upXUTm0/giphy.gif" width="260" alt="oof"/>
+<img src="https://media.giphy.com/media/DHqth0hVQoIzS/giphy.gif" width="260" alt="gpu oom"/>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-**Deploying to production on Friday** 😰
+**Me explaining AI to non-tech people** 🤖
 
-<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="260" alt="nervous"/>
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="260" alt="explaining"/>
 
 </td>
 <td align="center" width="50%">
 
-**When Docker finally builds** 🐳
+**Pushing buggy code at 2AM** 🌙
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="docker"/>
+<img src="https://media.giphy.com/media/ZVik7pIo9KB3zODhMO/giphy.gif" width="260" alt="2am coding"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**Model accuracy: 99% on train, 12% on test** 📉
+
+<img src="https://media.giphy.com/media/qs6ev2pm8g9dS/giphy.gif" width="260" alt="overfitting"/>
+
+</td>
+<td align="center" width="50%">
+
+**When Docker finally builds after 47 tries** 🐳
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="docker success"/>
 
 </td>
 </tr>
@@ -175,7 +185,7 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 ### 🌐 Portfolio — AI Solutions Engineer
 
 [![Portfolio Site](https://img.shields.io/badge/🌐_Visit_Portfolio-1a1a2e?style=for-the-badge&logoColor=e94560)](https://ansari-asim.github.io/asim-portfolio/)
-[![Portfolio Hits](https://hits.dwyl.com/ansari-asim/asim-portfolio.svg?style=flat-square&show=unique)](https://ansari-asim.github.io/asim-portfolio/)
+![Portfolio Hits](https://hits.dwyl.com/ansari-asim/asim-portfolio.svg?style=flat-square&show=unique&label=Portfolio+Unique+Visitors)
 
 > Personal portfolio showcasing AI Solutions Engineering projects,
 > Computer Vision work and MLOps deployments.
@@ -185,7 +195,7 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 ### 📘 AI Hardware Documentation — GPU & Jetson Guide
 
 [![GPU Docs Site](https://img.shields.io/badge/📘_Visit_GPU_Docs-1a1a2e?style=for-the-badge&logoColor=e94560)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
-[![GPU Docs Hits](https://hits.dwyl.com/ansari-asim/GPU-Documentation.svg?style=flat-square&show=unique)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
+![GPU Docs Hits](https://hits.dwyl.com/ansari-asim/GPU-Documentation.svg?style=flat-square&show=unique&label=Docs+Unique+Visitors)
 
 > Comprehensive AI hardware documentation covering NVIDIA Jetson devices
 > (Nano, NX, TX2NX, Developer Kit), dGPU Ubuntu setup, OS transfers,
