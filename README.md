@@ -111,11 +111,9 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 
 <br/>
 
-<!-- DAILY.DEV CARD — shows what you're reading in dev community -->
-### 📰 Dev Card
-<a href="https://app.daily.dev/ansariasim">
-  <img src="https://api.daily.dev/devcards/v2/ansariasim.png?type=wide&r=t3s" width="652" alt="Asim Ansari's Dev Card"/>
-</a>
+<!-- RANDOM MEME — changes on every page visit via meme API -->
+### 🐛 Random Dev Meme *(refreshes every visit)*
+![Dev Meme](https://memer-new.vercel.app/)
 
 <br/>
 
@@ -177,7 +175,7 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 ### 🌐 Portfolio — AI Solutions Engineer
 
 [![Portfolio Site](https://img.shields.io/badge/🌐_Visit_Portfolio-1a1a2e?style=for-the-badge&logoColor=e94560)](https://ansari-asim.github.io/asim-portfolio/)
-[![Portfolio Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fansari-asim.github.io%2Fasim-portfolio%2F&count_bg=%23e94560&title_bg=%231a1a2e&icon=github&icon_color=%23e94560&title=Portfolio+Visits&edge_flat=true)](https://ansari-asim.github.io/asim-portfolio/)
+[![Portfolio Hits](https://hits.dwyl.com/ansari-asim/asim-portfolio.svg?style=flat-square&show=unique)](https://ansari-asim.github.io/asim-portfolio/)
 
 > Personal portfolio showcasing AI Solutions Engineering projects,
 > Computer Vision work and MLOps deployments.
@@ -187,7 +185,7 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 ### 📘 AI Hardware Documentation — GPU & Jetson Guide
 
 [![GPU Docs Site](https://img.shields.io/badge/📘_Visit_GPU_Docs-1a1a2e?style=for-the-badge&logoColor=e94560)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
-[![GPU Docs Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fansari-asim.github.io%2FGPU-Documentation%2FGPU%2F&count_bg=%23e94560&title_bg=%231a1a2e&icon=readthedocs&icon_color=%23e94560&title=Docs+Visits&edge_flat=true)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
+[![GPU Docs Hits](https://hits.dwyl.com/ansari-asim/GPU-Documentation.svg?style=flat-square&show=unique)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
 
 > Comprehensive AI hardware documentation covering NVIDIA Jetson devices
 > (Nano, NX, TX2NX, Developer Kit), dGPU Ubuntu setup, OS transfers,
@@ -270,10 +268,8 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 ║  1. Create PUBLIC repo named exactly: ansari-asim            ║
 ║  2. Update: Email, LinkedIn URLs                             ║
 ║  3. Snake: add .github/workflows/snake.yml                   ║
-║  4. Traffic badges auto-activate on first visit              ║
-║  5. daily.dev card: sign up at daily.dev with handle         ║
-║     "ansariasim" to activate the Dev Card                    ║
-║  6. 3D contrib: add yoshi-hirayama/github-profile-3d-contrib ║
+║  4. Hit badges auto-activate on first page visit             ║
+║  5. 3D contrib: add yoshi-hirayama/github-profile-3d-contrib ║
 ║     GitHub Action workflow                                   ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
