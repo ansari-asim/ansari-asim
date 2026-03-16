@@ -33,11 +33,6 @@ mission  : Deploying AI that sees, thinks & scales reliably in production
 open_to  : Collaborations · Open Source · Freelance · Full-time
 ```
 
-<!-- FUNNY CODING GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -119,63 +114,9 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 <!--                 FUNNY RELATABLE SECTION                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🤣 Life as an AI Engineer
+## 🤣 Meme of the Day
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**When the model finally converges** 🎉
-
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="260" alt="yes finally"/>
-
-</td>
-<td align="center" width="50%">
-
-**When the GPU runs out of memory** 💀
-
-<img src="https://media.giphy.com/media/DHqth0hVQoIzS/giphy.gif" width="260" alt="gpu oom"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**Me explaining AI to non-tech people** 🤖
-
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="260" alt="explaining"/>
-
-</td>
-<td align="center" width="50%">
-
-**Pushing buggy code at 2AM** 🌙
-
-<img src="https://media.giphy.com/media/ZVik7pIo9KB3zODhMO/giphy.gif" width="260" alt="2am coding"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**Model: 99% train, 12% test accuracy** 📉
-
-<img src="https://media.giphy.com/media/qs6ev2pm8g9dS/giphy.gif" width="260" alt="overfitting"/>
-
-</td>
-<td align="center" width="50%">
-
-**When Docker finally builds after 47 tries** 🐳
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="docker success"/>
-
-</td>
-</tr>
-</table>
-
-<!-- AUTO-ROTATING DAILY MEME via GitHub Action -->
-### 🐛 Meme of the Day *(auto-changes daily)*
 
 ![Daily Meme](meme.png)
 
