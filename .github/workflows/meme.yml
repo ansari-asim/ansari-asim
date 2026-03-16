@@ -1,0 +1,28 @@
+name: Daily Meme
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  meme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch random programming meme
+        run: |
+          curl -s "https://meme-api.com/gimme/ProgrammerHumor" \
+          | python3 -c "import sys,json; print(json.load(sys.stdin)['url'])" \
+          | xargs curl -L -o meme.png
+      - name: Commit meme
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add meme.png
+          if git commit -m "🐛 daily meme update"; then
+            git push
+          fi
