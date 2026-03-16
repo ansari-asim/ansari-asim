@@ -159,7 +159,7 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 <tr>
 <td align="center" width="50%">
 
-**Model accuracy: 99% on train, 12% on test** 📉
+**Model: 99% train, 12% test accuracy** 📉
 
 <img src="https://media.giphy.com/media/qs6ev2pm8g9dS/giphy.gif" width="260" alt="overfitting"/>
 
@@ -173,6 +173,11 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 </td>
 </tr>
 </table>
+
+<!-- AUTO-ROTATING DAILY MEME via GitHub Action -->
+### 🐛 Meme of the Day *(auto-changes daily)*
+
+![Daily Meme](meme.png)
 
 </div>
 
@@ -226,8 +231,6 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 <!-- ISOMETRIC 3D CONTRIBUTION -->
 <img src="https://raw.githubusercontent.com/ansari-asim/ansari-asim/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
-> ⚠️ To enable 3D contributions, add the `profile-3d-contrib` GitHub Action — see setup below.
-
 <br/>
 
 </div>
@@ -237,10 +240,6 @@ open_to  : Collaborations · Open Source · Freelance · Full-time
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake-dark.svg"/>
