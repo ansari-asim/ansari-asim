@@ -1,171 +1,206 @@
 <div align="center">
 
-<!-- TERMINAL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=40&text=root@ansari-asim:~$&fontColor=4ade80&fontSize=18&fontAlign=15&desc=SYSTEM%20ONLINE%20●&descAlign=75&descAlignY=50&descColor=4ade80" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CLEAN PROFESSIONAL HEADER                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```
- ██████╗  ██████╗  ██████╗ ████████╗   ██╗      ██████╗  ██████╗ ██╗███╗  ██╗
- ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝   ██║     ██╔═══██╗██╔════╝ ██║████╗ ██║
- ██████╔╝██║   ██║██║   ██║   ██║      ██║     ██║   ██║██║  ███╗██║██╔██╗██║
- ██╔══██╗██║   ██║██║   ██║   ██║      ██║     ██║   ██║██║   ██║██║██║╚████║
- ██║  ██║╚██████╔╝╚██████╔╝   ██║      ███████╗╚██████╔╝╚██████╔╝██║██║ ╚███║
- ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝      ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&text=Asim%20Ansari&fontColor=e94560&fontSize=60&fontAlign=50&fontAlignY=50&desc=MLOps%20Developer%20%7C%20AI%20Solutions%20Engineer%20%7C%20Computer%20Vision&descColor=a8b2d8&descSize=15&descAlign=50&descAlignY=72" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=root%40ansari-asim%3A~%24+whoami;%3E+MLOps+Developer+%7C+AI+Solutions+Engineer;%3E+Computer+Vision+Specialist;%3E+Building+Intelligent+Systems+at+Scale...;%3E+sudo+apt+install+future-of-ai)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=👁️+Computer+Vision+%7C+Deep+Learning+Specialist;⚙️+MLOps+Pipelines+%7C+End-to-End+AI+Systems;🚀+Deploying+AI+on+Cloud+%26+Edge+Devices;🔬+Building+Intelligent+Systems+in+Production)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ansari-asim?logo=GitHub&style=for-the-badge&color=4ade80&labelColor=1a1a1a)](https://github.com/ansari-asim)
-[![GitHub Stars](https://img.shields.io/github/stars/ansari-asim?logo=github&style=for-the-badge&color=4ade80&labelColor=1a1a1a)](https://github.com/ansari-asim)
+<br/>
+
+<!-- PROFILE VISITOR BADGE -->
+![Visitors](https://komarev.com/ghpvc/?username=ansari-asim&color=e94560&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ABOUT ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧑‍💻 About Me
+
+```yaml
+name     : Asim Ansari
+role     : MLOps Developer · AI Solutions Engineer · Computer Vision Specialist
+focus    : End-to-end AI pipelines, real-time CV systems, edge & cloud deployment
+stack    : Python · PyTorch · OpenCV · YOLO · Docker · FastAPI · AWS · GCP · Azure
+mission  : Deploying AI that sees, thinks & scales reliably in production
+open_to  : Collaborations · Open Source · Freelance · Full-time
+```
+
+<!-- FUNNY CODING GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  TECH STACK                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-```bash
-[  0.001s] BIOS v2.0 — Loading profile system...
-[  0.012s] Kernel: ansari-asim-core initialized
-[  0.024s] Mounting intelligence modules...       [ OK ]
-[  0.036s] Loading Computer Vision drivers...     [ OK ]
-[  0.048s] Starting MLOps pipeline services...    [ OK ]
-[  0.061s] Connecting to neural networks...       [ OK ]
-[  0.075s] AI Solutions Engine: READY             [ OK ]
-[  0.089s] All systems operational ✓
-```
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,docker,fastapi,aws,gcp,azure,linux,git,vscode&theme=dark&perline=6"/>
+</a>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=e94560)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=e94560)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=e94560)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=e94560)
+![YOLO](https://img.shields.io/badge/YOLO-1a1a2e?style=flat-square&logo=yolo&logoColor=e94560)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-1a1a2e?style=flat-square&logoColor=e94560)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=e94560)
+![DVC](https://img.shields.io/badge/DVC-1a1a2e?style=flat-square&logo=dvc&logoColor=e94560)
+![Airflow](https://img.shields.io/badge/Airflow-1a1a2e?style=flat-square&logo=apacheairflow&logoColor=e94560)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=e94560)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=e94560)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonaws&logoColor=e94560)
+![GCP](https://img.shields.io/badge/GCP-1a1a2e?style=flat-square&logo=googlecloud&logoColor=e94560)
+![Azure](https://img.shields.io/badge/Azure-1a1a2e?style=flat-square&logo=microsoftazure&logoColor=e94560)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=e94560)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=e94560)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=e94560)
+![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=flat-square&logo=apachekafka&logoColor=e94560)
 
 </div>
 
 ---
 
-## `[root@ansari-asim ~]$ cat profile.json`
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  STREAK STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```json
-{
-  "user": {
-    "name"        : "Asim Ansari",
-    "handle"      : "ansari-asim",
-    "status"      : "ONLINE ●",
-    "roles"       : [
-                      "MLOps Developer",
-                      "AI Solutions Engineer",
-                      "Computer Vision Specialist"
-                    ],
-    "location"    : "/dev/earth/grid",
-    "shell"       : "/bin/python3",
-    "uptime"      : "24/7 building AI systems"
-  },
-  "skills": {
-    "primary"     : ["MLOps", "Computer Vision", "Deep Learning"],
-    "secondary"   : ["Model Deployment", "Edge AI", "CI/CD for ML"],
-    "frameworks"  : ["PyTorch", "TensorFlow", "OpenCV", "YOLO", "HuggingFace"],
-    "cloud"       : ["AWS", "GCP", "Azure"],
-    "devops"      : ["Docker", "Kubernetes", "Airflow", "MLflow", "DVC"]
-  },
-  "mission"       : "Deploying AI that sees, thinks and scales in production.",
-  "open_to"       : ["Collaborations", "Open Source", "Freelance", "Full-time"]
-}
-```
-
----
-
-## `[root@ansari-asim ~]$ ls -la ./tech-stack/`
-
-```bash
-drwxr-xr-x  AI_ML/
-```
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=4ade80)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=4ade80)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=4ade80)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=for-the-badge&logo=opencv&logoColor=4ade80)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=4ade80)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1a1a1a?style=for-the-badge&logo=scikit-learn&logoColor=4ade80)
-
-```bash
-drwxr-xr-x  MLOps/
-```
-![DVC](https://img.shields.io/badge/DVC-1a1a1a?style=for-the-badge&logo=dvc&logoColor=4ade80)
-![Apache Airflow](https://img.shields.io/badge/Airflow-1a1a1a?style=for-the-badge&logo=apacheairflow&logoColor=4ade80)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=4ade80)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=4ade80)
-
-```bash
-drwxr-xr-x  Cloud_DevOps/
-```
-![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=4ade80)
-![GCP](https://img.shields.io/badge/GCP-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=4ade80)
-![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=for-the-badge&logo=microsoftazure&logoColor=4ade80)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=4ade80)
-
-```bash
-drwxr-xr-x  Data_Storage/
-```
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=4ade80)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=4ade80)
-![Kafka](https://img.shields.io/badge/Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=4ade80)
-
----
-
-## `[root@ansari-asim ~]$ htop`
+## 🔥 GitHub Streak
 
 <div align="center">
 
-```
-PID   PROCESS                          CPU%   MEM%   STATUS
-───────────────────────────────────────────────────────────
-001   computer_vision_pipeline.py      ████░   87%   RUNNING
-002   mlops_ci_cd_workflow.sh          ███░░   72%   RUNNING
-003   model_training_loop.py           █████   94%   RUNNING
-004   edge_ai_deployment.py            ██░░░   50%   RUNNING
-005   open_source_contributions.sh     ░░░░░    8%   QUEUED
-006   multimodal_research.py           ░░░░░    2%   QUEUED
-───────────────────────────────────────────────────────────
-Load avg: 9.9  9.8  9.7 | Tasks: 6 total | Uptime: 24/7
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansari-asim&theme=dark&background=1a1a2e&stroke=e94560&ring=e94560&fire=ff6b6b&currStreakNum=e94560&sideNums=a8b2d8&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&border=e9456033&border_radius=10" width="600"/>
 
 </div>
 
 ---
 
-## `[root@ansari-asim ~]$ cat /etc/network/contacts`
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--          LIVE EXTENSIONS + FUNNY / VISUAL STUFF            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## ⚡ Live Feed
 
 <div align="center">
 
-```bash
-# /etc/network/contacts — established connections
-```
+<!-- RANDOM DEV JOKE — new joke every page load (live API) -->
+### 😂 Today's Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=%231a1a2e&borderColor=%23e94560&textColor=%23a8b2d8&qColor=%23e94560&aColor=%23e94560&codeColor=%23e94560)
 
-[![LinkedIn](https://img.shields.io/badge/Asim%20Ansari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansari-asim)
-[![GitHub](https://img.shields.io/badge/ansari--asim-1a1a1a?style=for-the-badge&logo=github&logoColor=4ade80)](https://github.com/ansari-asim)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=4ade80)](mailto:asimansari400097@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=4ade80)](https://ansari-asim.github.io/asim-portfolio/)
+<br/>
 
-</div>
-
----
-
-## `[root@ansari-asim ~]$ ./render --mode=visual`
-
-<div align="center">
-
-<!-- RANDOM HACKER DEV QUOTE — new quote on every visit -->
+<!-- RANDOM PROGRAMMING QUOTE -->
+### 💬 Today's Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- CAPSULE RENDER CYBERPUNK WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0,20,0,4ade80&height=60&section=header" width="100%"/>
+<br/>
 
-<!-- CUSTOM SKILL ICONS — beautiful icon grid, no stats -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,docker,fastapi,aws,gcp,azure,linux,git,vscode&theme=dark&perline=6" />
-  </a>
-</p>
+<!-- DAILY.DEV CARD — shows what you're reading in dev community -->
+### 📰 Dev Card
+<a href="https://app.daily.dev/ansariasim">
+  <img src="https://api.daily.dev/devcards/v2/ansariasim.png?type=wide&r=t3s" width="652" alt="Asim Ansari's Dev Card"/>
+</a>
 
-<!-- CAPSULE RENDER CYBERPUNK WAVE DIVIDER BOTTOM -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0,20,0,4ade80&height=60&section=footer&reversal=true" width="100%"/>
+<br/>
 
-<!-- VISITOR BADGE — only thing that's "live", just a counter -->
-![Visitors](https://komarev.com/ghpvc/?username=ansari-asim&color=4ade80&style=for-the-badge&label=PROFILE+VISITS)
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 FUNNY RELATABLE SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🤣 Life as an AI Engineer
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**When the model finally converges** 🎉
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260" alt="success"/>
+
+</td>
+<td align="center" width="50%">
+
+**When the GPU runs out of memory** 💀
+
+<img src="https://media.giphy.com/media/26uf2YTgF5upXUTm0/giphy.gif" width="260" alt="oof"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**Deploying to production on Friday** 😰
+
+<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="260" alt="nervous"/>
+
+</td>
+<td align="center" width="50%">
+
+**When Docker finally builds** 🐳
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="docker"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Live Projects
+
+<div align="center">
+
+### 🌐 Portfolio — AI Solutions Engineer
+
+[![Portfolio Site](https://img.shields.io/badge/🌐_Visit_Portfolio-1a1a2e?style=for-the-badge&logoColor=e94560)](https://ansari-asim.github.io/asim-portfolio/)
+[![Portfolio Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fansari-asim.github.io%2Fasim-portfolio%2F&count_bg=%23e94560&title_bg=%231a1a2e&icon=github&icon_color=%23e94560&title=Portfolio+Visits&edge_flat=true)](https://ansari-asim.github.io/asim-portfolio/)
+
+> Personal portfolio showcasing AI Solutions Engineering projects,
+> Computer Vision work and MLOps deployments.
+
+---
+
+### 📘 AI Hardware Documentation — GPU & Jetson Guide
+
+[![GPU Docs Site](https://img.shields.io/badge/📘_Visit_GPU_Docs-1a1a2e?style=for-the-badge&logoColor=e94560)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
+[![GPU Docs Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fansari-asim.github.io%2FGPU-Documentation%2FGPU%2F&count_bg=%23e94560&title_bg=%231a1a2e&icon=readthedocs&icon_color=%23e94560&title=Docs+Visits&edge_flat=true)](https://ansari-asim.github.io/GPU-Documentation/GPU/)
+
+> Comprehensive AI hardware documentation covering NVIDIA Jetson devices
+> (Nano, NX, TX2NX, Developer Kit), dGPU Ubuntu setup, OS transfers,
+> BSP flashing, and edge deployment guides.
+
+**Covered Hardware & Topics:**
+
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-1a1a2e?style=flat-square&logo=nvidia&logoColor=e94560)
+![Jetson NX](https://img.shields.io/badge/Jetson_NX-1a1a2e?style=flat-square&logo=nvidia&logoColor=e94560)
+![Jetson TX2NX](https://img.shields.io/badge/Jetson_TX2NX-1a1a2e?style=flat-square&logo=nvidia&logoColor=e94560)
+![dGPU](https://img.shields.io/badge/dGPU_Ubuntu-1a1a2e?style=flat-square&logo=ubuntu&logoColor=e94560)
+![JetPack](https://img.shields.io/badge/JetPack_4.6-1a1a2e?style=flat-square&logo=nvidia&logoColor=e94560)
+![BSP Flashing](https://img.shields.io/badge/BSP_Flashing-1a1a2e?style=flat-square&logo=linux&logoColor=e94560)
 
 </div>
 
@@ -173,14 +208,58 @@ Load avg: 9.9  9.8  9.7 | Tasks: 6 total | Uptime: 24/7
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,0,4ade80&height=80&section=footer&text=root@ansari-asim:~$%20logout&fontColor=4ade80&fontSize=16&fontAlign=50&fontAlignY=65" width="100%"/>
+<!-- 3D ISOMETRIC CONTRIBUTION CALENDAR — beautiful visual -->
+## 📅 Contribution Calendar
 
-```bash
-[root@ansari-asim ~]$ echo "Let's build something powerful together."
-> Let's build something powerful together.
-[root@ansari-asim ~]$ logout
-Connection closed. ●
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansari-asim&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&area_color=e9456033&area=true&hide_border=true&custom_title=Asim's+Contribution+Timeline" width="100%"/>
+
+<br/>
+
+<!-- ISOMETRIC 3D CONTRIBUTION -->
+<img src="https://raw.githubusercontent.com/ansari-asim/ansari-asim/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+> ⚠️ To enable 3D contributions, add the `profile-3d-contrib` GitHub Action — see setup below.
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  SNAKE + QUOTE                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ansari-asim/ansari-asim/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONNECT                                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Asim%20Ansari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansari-asim)
+[![GitHub](https://img.shields.io/badge/ansari--asim-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560)](https://github.com/ansari-asim)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=e94560)](https://ansari-asim.github.io/asim-portfolio/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&text=Let's+Build+Something+Intelligent+Together&fontColor=e94560&fontSize=14&fontAlign=50&fontAlignY=70" width="100%"/>
 
 </div>
 
@@ -189,7 +268,12 @@ Connection closed. ●
 ║          SETUP CHECKLIST — DELETE BEFORE PUBLISHING          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  1. Create PUBLIC repo named exactly: ansari-asim            ║
-║  2. Update: Email, LinkedIn, Portfolio URLs                  ║
+║  2. Update: Email, LinkedIn URLs                             ║
 ║  3. Snake: add .github/workflows/snake.yml                   ║
+║  4. Traffic badges auto-activate on first visit              ║
+║  5. daily.dev card: sign up at daily.dev with handle         ║
+║     "ansariasim" to activate the Dev Card                    ║
+║  6. 3D contrib: add yoshi-hirayama/github-profile-3d-contrib ║
+║     GitHub Action workflow                                   ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
